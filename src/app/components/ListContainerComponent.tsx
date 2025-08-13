@@ -4,7 +4,7 @@ const timesList: Time[] = [
     new Time('São Paulo', 3),
     new Time('Corinthians', 2),
     new Time('Santos', 2),
-    new Time('Palmeiras', 0),
+    new Time('Palmeiras', 0)
 ];
 
 export default function(){
